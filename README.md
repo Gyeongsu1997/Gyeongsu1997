@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## GitHub Stats
 ![Gyeongsu1997's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyeongsu1997&show_icons=true&theme=radical)
 
-## <img src="https://user-images.githubusercontent.com/97381683/230303390-ff5759ba-5895-42f8-9c68-0fac83dda94b.svg" width="10" height="10"> 42Seoul Stats
+## <img src="https://user-images.githubusercontent.com/97381683/230303390-ff5759ba-5895-42f8-9c68-0fac83dda94b.svg" width="40" height="40"> 42Seoul Stats
 ![gyechoi's 42 stats](https://badge42.vercel.app/api/v2/clg4nlglu005408lb4d1pxbkq/stats?cursusId=21&coalitionId=85)
   
 <div>
