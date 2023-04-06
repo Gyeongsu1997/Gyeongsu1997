@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=100&section=header&text=Hi!%20I'm%20gyeongsu&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=Gradient&height=100&section=header&text=Hi!%20I'm%20Gyeongsu&fontSize=90)
   
 ## GitHub Stats
 ![Gyeongsu1997's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyeongsu1997&show_icons=true&theme=radical)
