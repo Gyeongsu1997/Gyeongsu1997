@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <div align='center'>
   
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90)
+  
 ## GitHub Stats
 ![Gyeongsu1997's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyeongsu1997&show_icons=true&theme=radical)
 
