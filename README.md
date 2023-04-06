@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Gyeongsu1997's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyeongsu1997&show_icons=true&theme=radical)
-[![gyechoi's 42 stats](https://badge42.vercel.app/api/v2/clg4nlglu005408lb4d1pxbkq/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
+![gyechoi's 42 stats](https://badge42.vercel.app/api/v2/clg4nlglu005408lb4d1pxbkq/stats?cursusId=21&coalitionId=85)
