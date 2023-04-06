@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Hi!%20I'm%20Gyeongsu&fontSize=70&animation=twinkling)
   
-## GitHub Stats
+## <img src="https://user-images.githubusercontent.com/97381683/230309091-42c80802-1a7c-41fb-b808-c69523efe553.svg" width="25" height="25"> GitHub Stats
 ![Gyeongsu1997's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyeongsu1997&show_icons=true&theme=radical)
 
 ## <img src="https://user-images.githubusercontent.com/97381683/230303390-ff5759ba-5895-42f8-9c68-0fac83dda94b.svg" width="25" height="25"> 42Seoul Stats
