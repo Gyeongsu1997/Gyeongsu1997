@@ -13,8 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align='center'>
-  
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Hi!%20I'm%20Gyeongsu&fontSize=70&animation=twinkling)
-  
-<div>
+백엔드 개발자입니다.
